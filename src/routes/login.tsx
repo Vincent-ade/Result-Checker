@@ -88,11 +88,6 @@ function Login() {
             </Button>
           </div>
 
-          <div className="mt-6 rounded-lg bg-muted p-4 text-xs text-muted-foreground">
-            <p className="font-semibold text-foreground">Demo credentials</p>
-            <p className="mt-1 font-mono">CSC/2021/001 · student123</p>
-            <p className="font-mono">EEE/2022/015 · student123</p>
-          </div>
         </form>
       </section>
     </Layout>
