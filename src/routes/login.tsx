@@ -64,7 +64,7 @@ function Login() {
               <Label htmlFor="matric">Matric Number</Label>
               <Input
                 id="matric"
-                placeholder="e.g. CSC/2021/001"
+                placeholder="e.g. CSC/2023/200"
                 value={matricNo}
                 onChange={(e) => setMatricNo(e.target.value)}
                 className="mt-1.5"
